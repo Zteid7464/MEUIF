@@ -2,12 +2,7 @@
 # but im planning on adding some later.
 
 | The structure of a MEUIF file:                                             |
-|----------------------------------------------------------------------------|
-|----------------------------------------------------------------------------|
 | The first 5 bytes are just MEUIF in ASCII. <br>                            |
-|----------------------------------------------------------------------------|
 | Four bytes for the total size of the image file. <br>                      |
-|----------------------------------------------------------------------------|
 | Two bytes for the width, and two bytes for the height of the image. <br>   |
-|----------------------------------------------------------------------------|
 | The Pixel data <br>                                                        |
